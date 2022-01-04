@@ -9,3 +9,9 @@
 - 📫 How to reach me: Instagram, Facebook, Twitter, Discord
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I used to poop on game storefont.
+
+
+## Contact me <->
+- https://twitter.com/benzztj
+
+<img src="https://github-readme-stats.vercel.app/api?username=teerapop67&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
